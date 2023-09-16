@@ -1,8 +1,9 @@
 /*
  * min.h
- *
+ *   Smart Home Project
  *  Created on: 12 Sept 2023
  *      Author: compu market
+ *    
  */
 
 #ifndef MIN_H_
